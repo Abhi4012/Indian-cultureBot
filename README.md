@@ -20,8 +20,8 @@ I built this chatbot on `indian culture and heritage`
 
 ## create .env for keep your secret api key
 ```pinecone link for creating api key and environment:``` https://www.pinecone.io/
-`PINECONE_API_KEY = "put your pinecone api key here"`
-`PINECONE_API_ENV = "put your pinecone api enviroment key here"`
+`PINECONE_API_KEY = "YOUR PINECONE API KEY"`
+`PINECONE_API_ENV = "YOUR PINECONE ENV KEY"`
 
 ## Download the model
 model name:
@@ -30,5 +30,5 @@ model link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 
-## Run 
+## Run
 `python app.py`
