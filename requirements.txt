@@ -16,7 +16,7 @@ pathlib
 # pathlib
 # PyMuPDF
 # PyPDF2
-# sentence-transformers
+sentence-transformers
 # python-utils
 # doc-loader
 # wikipedia-api 
