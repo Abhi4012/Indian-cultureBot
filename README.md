@@ -18,7 +18,8 @@ I built this chatbot on `indian culture and heritage`
 `pip install -r requirements.txt`
 
 
-## create .env for keep your secret api key
+## create .env file for keep your secret api key
+PINECONE: Pinecone is a cloud-based vector database designed specifically to store, index, and retrieve high-dimensional vectors. 
 ```pinecone link for creating api key and environment:``` https://www.pinecone.io/
 `PINECONE_API_KEY = "YOUR PINECONE API KEY"`
 `PINECONE_API_ENV = "YOUR PINECONE ENV KEY"`
