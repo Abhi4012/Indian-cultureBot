@@ -1,0 +1,32 @@
+ctransformers
+langchain-community
+langchain
+flask
+pypdf
+python-dotenv
+pinecone-client
+langchain_pinecone
+pathlib
+#PyPDFLoader
+
+
+
+
+
+# pathlib
+# PyMuPDF
+# PyPDF2
+# sentence-transformers
+# python-utils
+# doc-loader
+# wikipedia-api 
+# requests
+# beautifulsoup4
+# lxml
+# wikipedia-api
+# nltk
+# langchain_google_genai
+# google-search-results
+# wikipedia
+# pdfextract
+# fitz
