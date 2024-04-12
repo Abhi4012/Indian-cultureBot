@@ -24,7 +24,6 @@ sentence-transformers
 # beautifulsoup4
 # lxml
 # wikipedia-api
-# nltk
 # langchain_google_genai
 # google-search-results
 # wikipedia
